@@ -67,7 +67,7 @@ CCRM is a console-based Java application for managing students, courses, enrollm
 2.  **Create Packages**: Right-click the `src` folder `> New > Package`. Create the required packages (`edu.ccrm.cli`, etc.).
 3.  **Create Classes**: Right-click a package `> New > Class`.
 4.  **Run Application**: Right-click the `Main.java` file `> Run As > Java Application`.
-    * *![Loading !](screenshots/2.png)*
+    * *![Loading !](screenshots/4.png)*
 
 ---
 
@@ -129,4 +129,5 @@ If an assertion fails, it indicates a bug in the code that should be fixed durin
 | **NIO.2 (Path, Files, Streams)** | `ImportExportService.java`, `BackupService.java`                |
 | **Date/Time API** | `Student.java` (`LocalDate`), `BackupService.java` (`LocalDateTime`) |
 | **Recursion** | `RecursiveFileUtils::calculateDirectorySize`                    |
+
 | **Design Patterns** | `AppConfig` (Singleton), `Course.Builder` (Builder)             |
