@@ -1,0 +1,13 @@
+Code,Title,Credits,Department,Semester,InstructorName,InstructorEmail,Active
+CS101,Introduction to Computer Science,3,Computer Science,FALL,Dr. James Wilson,james.wilson@university.edu,true
+CS102,Data Structures,4,Computer Science,SPRING,Dr. Sarah Johnson,sarah.j@university.edu,true
+MATH201,Calculus I,4,Mathematics,FALL,Prof. Michael Davis,m.davis@university.edu,true
+MATH202,Calculus II,4,Mathematics,SPRING,Prof. Michael Davis,m.davis@university.edu,true
+ENG101,English Composition,3,English,FALL,Dr. Emily Brown,e.brown@university.edu,true
+ENG102,Literature Analysis,3,English,SPRING,Dr. Emily Brown,e.brown@university.edu,true
+PHYS101,General Physics I,4,Physics,FALL,Dr. Robert Miller,r.miller@university.edu,true
+PHYS102,General Physics II,4,Physics,SPRING,Dr. Robert Miller,r.miller@university.edu,true
+HIST101,World History,3,History,FALL,Dr. Margaret Clark,m.clark@university.edu,true
+CHEM101,General Chemistry,4,Chemistry,FALL,Dr. David Martinez,d.martinez@university.edu,true
+CS201,Software Engineering,3,Computer Science,FALL,Dr. James Wilson,james.wilson@university.edu,true
+CS300,Advanced Algorithms,3,Computer Science,SPRING,Dr. Lisa Anderson,l.anderson@university.edu,false
