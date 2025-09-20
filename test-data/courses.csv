@@ -1,0 +1,26 @@
+Code,Title,Credits,Department,Semester,InstructorName,InstructorEmail,Active
+CS101,Introduction to Programming,3,Computer Science,FALL,Dr. Alice Smith,alice.smith@university.edu,true
+CS102,Object-Oriented Programming,4,Computer Science,SPRING,Dr. Alice Smith,alice.smith@university.edu,true
+CS201,Data Structures and Algorithms,4,Computer Science,FALL,Dr. Bob Johnson,bob.johnson@university.edu,true
+CS202,Database Systems,3,Computer Science,SPRING,Dr. Bob Johnson,bob.johnson@university.edu,true
+MATH101,College Algebra,3,Mathematics,FALL,Prof. Carol Williams,carol.williams@university.edu,true
+MATH201,Calculus I,4,Mathematics,FALL,Prof. David Brown,david.brown@university.edu,true
+MATH202,Calculus II,4,Mathematics,SPRING,Prof. David Brown,david.brown@university.edu,true
+MATH301,Linear Algebra,3,Mathematics,SPRING,Prof. Carol Williams,carol.williams@university.edu,true
+ENG101,English Composition I,3,English,FALL,Dr. Emma Davis,emma.davis@university.edu,true
+ENG102,English Composition II,3,English,SPRING,Dr. Emma Davis,emma.davis@university.edu,true
+ENG201,Literature Survey,3,English,FALL,Dr. Frank Miller,frank.miller@university.edu,true
+PHYS101,General Physics I,4,Physics,FALL,Dr. Grace Wilson,grace.wilson@university.edu,true
+PHYS102,General Physics II,4,Physics,SPRING,Dr. Grace Wilson,grace.wilson@university.edu,true
+PHYS201,Modern Physics,3,Physics,FALL,Dr. Henry Thompson,henry.thompson@university.edu,true
+CHEM101,General Chemistry I,4,Chemistry,FALL,Dr. Isabella Lee,isabella.lee@university.edu,true
+CHEM102,General Chemistry II,4,Chemistry,SPRING,Dr. Isabella Lee,isabella.lee@university.edu,true
+CHEM201,Organic Chemistry,4,Chemistry,FALL,Dr. Jack Garcia,jack.garcia@university.edu,true
+HIST101,World History I,3,History,FALL,Dr. Kate Martinez,kate.martinez@university.edu,true
+HIST102,World History II,3,History,SPRING,Dr. Kate Martinez,kate.martinez@university.edu,true
+HIST201,American History,3,History,FALL,Dr. Liam Anderson,liam.anderson@university.edu,true
+BIO101,General Biology I,4,Biology,FALL,Dr. Mia Clark,mia.clark@university.edu,true
+BIO102,General Biology II,4,Biology,SPRING,Dr. Mia Clark,mia.clark@university.edu,true
+PSY101,Introduction to Psychology,3,Psychology,FALL,Dr. Noah Rodriguez,noah.rodriguez@university.edu,true
+PSY201,Developmental Psychology,3,Psychology,SPRING,Dr. Noah Rodriguez,noah.rodriguez@university.edu,true
+ECON101,Principles of Microeconomics,3,Economics,FALL,Dr. Olivia Lewis,olivia.lewis@university.edu,true
