@@ -129,5 +129,5 @@ If an assertion fails, it indicates a bug in the code that should be fixed durin
 | **NIO.2 (Path, Files, Streams)** | `ImportExportService.java`, `BackupService.java`                |
 | **Date/Time API** | `Student.java` (`LocalDate`), `BackupService.java` (`LocalDateTime`) |
 | **Recursion** | `RecursiveFileUtils::calculateDirectorySize`                    |
-
 | **Design Patterns** | `AppConfig` (Singleton), `Course.Builder` (Builder)             |
+
